@@ -1,31 +1,37 @@
-Yes. I think the cleanest way is to make subjectivity explicitly indexical rather than trying to turn it into a generic scalar.
+# Formal Illustration
 
-For example:
+The purpose of this formalism is to represent **experience as subject-indexed** rather than as a generic objective variable.
 
-Eᵢ = f(X, Hᵢ)
+## Subject-indexed experience
+
+**Eᵢ = f(X, Hᵢ)**
 
 where:
 
-* Eᵢ = experience as experienced by subject i
-* X = externally observable condition or stimulus
-* Hᵢ = subject-specific internal/history state
+- **Eᵢ** = experience as experienced by subject *i*
+- **X** = externally specified condition or stimulus
+- **Hᵢ** = subject-specific internal or historical state
 
-Then the important relation is:
+The key relation is:
 
-Xᵢ = Xⱼ does not imply Eᵢ = Eⱼ
+**Xᵢ = Xⱼ does not imply Eᵢ = Eⱼ**
 
-Two subjects can encounter the same objectively described condition without having the same subjective experience.
+Two subjects may encounter the same externally described condition without having the same subjective experience.
 
-You could even build a simple experimental illustration around it:
+## Experiential difference
 
-ΔEᵢⱼ = |Eᵢ − Eⱼ|, given Xᵢ = Xⱼ
+A simple difference term can be written as:
 
-If ΔEᵢⱼ > 0, then holding the external condition constant did not eliminate variation in experience. The variable that differs is subject-indexed.
+**ΔEᵢⱼ = |Eᵢ − Eⱼ|, given Xᵢ = Xⱼ**
 
-That doesn’t “prove consciousness,” but it illustrates your conceptual point very cleanly:
+If **ΔEᵢⱼ > 0**, then holding the external condition constant does not eliminate variation in experience. The experiential variable remains indexed to the subject.
 
-Subjectivity is not noise around an objective variable; the subject-indexed experience is itself the variable of interest.
+## Conceptual implication
 
-And that could connect beautifully to your repo claim:
+Subjectivity is not treated here as noise around an objective variable. The subject-indexed experience is itself the variable of interest.
 
-If E must be indexed to a subject, then replacing E with only X removes the phenomenon the model was meant to represent.
+If **E** must be indexed to a subject, then replacing **E** with only **X** removes the phenomenon the model was intended to represent.
+
+## Scope
+
+This equation is a conceptual illustration. It does not prove consciousness, quantify subjective experience directly, or establish a biological mechanism of consciousness.

@@ -18,14 +18,6 @@ The key relation is:
 
 Two subjects may encounter the same externally described condition without having the same subjective experience.
 
-## Experiential difference
-
-A simple difference term can be written as:
-
-**ΔEᵢⱼ = |Eᵢ − Eⱼ|, given Xᵢ = Xⱼ**
-
-If **ΔEᵢⱼ > 0**, then holding the external condition constant does not eliminate variation in experience. The experiential variable remains indexed to the subject.
-
 ## Conceptual implication
 
 Subjectivity is not treated here as noise around an objective variable. The subject-indexed experience is itself the variable of interest.
